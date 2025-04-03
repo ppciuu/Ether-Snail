@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/ESNAIL_optimized_under_1MB.png" alt="ESNAIL Logo" width="200"/>
+  <img src="9b29cbbe-6739-48ef-b7d2-f2bd8f785470.png" alt="ESNAIL Logo" width="200"/>
 </p>
 
 # Ether-Snail
